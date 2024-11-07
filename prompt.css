@@ -1,0 +1,4 @@
+"You are provided with a list of terms that may describe colors or other characteristics. For each term, please:
+1. Identify the core color if present, or return [blank] if the term has no color meaning.
+2. If the term implies multiple colors (e.g., 'multi', 'assorted'), return 'check URL'.
+3. Only return one normalized color name or classification per color term."
